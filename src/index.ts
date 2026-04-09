@@ -1,0 +1,1 @@
+import { runQuestao1 } from "./repeticao/questao1";
