@@ -12,6 +12,8 @@ document.getElementById("btn4-condicional")?.addEventListener('click', runQuesti
 
 // REPETIÇÃO
 import { runQuestion1Repeticao } from "./repeticao/questao1.js";
+import { runQuestion2Repeticao } from "./repeticao/questao2.js";
+import {runQuestion3}
 
 
 document.getElementById("btn1-repeticao")?.addEventListener('click', runQuestion1Repeticao)
